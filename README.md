@@ -10,7 +10,7 @@
 - I’m currently learning web security
 - I’m looking for help with reverse engineering
 - Ask me about anything, I am happy to help
-- How to reach me: l1pt0n1905@gmail.com or [![telegram: zulbukharov](https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=telegram&logoColor=black&link=https://t.me/frozen6heart)](https://t.me/Zulbukharov)
+- How to reach me: zeruyaemail@gmail.com or [![telegram: Zerihun_H](https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=telegram&logoColor=black&link=https://t.me/Zerihun_H)](https://t.me/Zerihun_H)
 
 Languages and Tools:
 
