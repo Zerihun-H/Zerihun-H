@@ -1,6 +1,5 @@
 ## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-<p><em>Software Engineer at <a href="https://alem.school">DLT Dist.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 [![Linkedin: Zerihun](https://img.shields.io/badge/-zulbukharov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zulbukharov/)](https://www.linkedin.com/in/zulbukharov/)
 ![GitHub followers](https://img.shields.io/github/followers/Zulbukharov?label=Follow&style=social)
@@ -8,8 +7,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=Zulbukharov.Zulbukharov)
 
 - I’m currently learning web security
-- I’m looking for help with reverse engineering
-  
+
 ![Zerihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerihun-h&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerihun-h&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align = "center">
