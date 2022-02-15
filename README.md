@@ -30,9 +30,7 @@ Languages and Tools:
 ![Zerihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerihun-h&show_icons=true&theme=github_dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerihun-h&hide=TeX&layout=compact)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zerihun-h&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00C3DA&ring=4B8DDA&sideNums=D8D8D8&dates=DDDDDD&sideLabels=DDDDDD&currStreakLabel=DDDDDD&fire=DD2727)](https://git.io/streak-stats)
-
-![trophy](https://github-profile-trophy.vercel.app/?username=zerihun-h&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
-  
+ 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
 </p> 
