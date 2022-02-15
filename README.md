@@ -32,5 +32,5 @@ Languages and Tools:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zerihun-h&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00C3DA&ring=4B8DDA&sideNums=D8D8D8&dates=DDDDDD&sideLabels=DDDDDD&currStreakLabel=DDDDDD&fire=DD2727)](https://git.io/streak-stats)
  
 <p align = "center">
- <img src="https://zerihun-activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
+ <img src="https://zerihun-activity-graph.herokuapp.com/graph?username=zerihun-h&theme=redical">
 </p> 
