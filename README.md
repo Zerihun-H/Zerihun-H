@@ -19,3 +19,5 @@
 <p align = "center">
  <img src="https://zerihun-activity-graph.herokuapp.com/graph?username=zerihun-h&theme=react-dark">
 </p> 
+<hr>
+<p align="center">If you like it, do fork 🍴 and star ⭐</p>
