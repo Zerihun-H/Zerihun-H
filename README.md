@@ -31,6 +31,4 @@ Languages and Tools:
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zerihun-h&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00C3DA&ring=4B8DDA&sideNums=D8D8D8&dates=DDDDDD&sideLabels=DDDDDD&currStreakLabel=DDDDDD&fire=DD2727)](https://git.io/streak-stats)
 
-  
-![stats](https://github-readme-stats.vercel.app/api?username=char-al&show_icons=true&count_private=true&title_color=f7d745&text_color=b2d76c&icon_color=6562af&bg_color=00000000&hide=bg-color&hide_border=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=zerihun-h&theme=juicyfresh&no-bg=true&no-frame=true&column=4&")
