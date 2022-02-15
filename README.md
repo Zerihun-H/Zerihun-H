@@ -1,4 +1,4 @@
-### Hi, 👋
+## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
 <p><em>Software Engineer at <a href="https://alem.school">DLT Dist.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
@@ -27,6 +27,6 @@ Languages and Tools:
 
   
   
-![Zerihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerihun-h&show_icons=true&theme=github_dark)
+![Zerihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerihun-h&show_icons=true&theme=github_dark)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zerihun-h&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00C3DA&ring=4B8DDA&sideNums=D8D8D8&dates=DDDDDD&sideLabels=DDDDDD&currStreakLabel=DDDDDD&fire=DD2727)](https://git.io/streak-stats)
