@@ -9,10 +9,6 @@
 
 - I’m currently learning web security
 - I’m looking for help with reverse engineering
-- Ask me about anything, I am happy to help
-- How to reach me: zeruyaemail@gmail.com or [![telegram: Zerihun_H](https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=telegram&logoColor=black&link=https://t.me/Zerihun_H)](https://t.me/Zerihun_H)
-
-
   
 ![Zerihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerihun-h&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark)
   
