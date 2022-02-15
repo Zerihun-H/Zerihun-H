@@ -31,7 +31,7 @@ Languages and Tools:
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerihun-h&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zerihun-h&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00C3DA&ring=4B8DDA&sideNums=D8D8D8&dates=DDDDDD&sideLabels=DDDDDD&currStreakLabel=DDDDDD&fire=DD2727)](https://git.io/streak-stats)
+[![GitHub Streak](https://zerihun-readme.herokuapp.com?user=zerihun-h&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00C3DA&ring=4B8DDA&sideNums=D8D8D8&dates=DDDDDD&sideLabels=DDDDDD&currStreakLabel=DDDDDD&fire=DD2727)](https://git.io/streak-stats)
 
  
 <p align = "center">
