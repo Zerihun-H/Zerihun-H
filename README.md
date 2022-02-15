@@ -15,7 +15,7 @@
 </p> 
  
 <p align = "center">
- <img src="https://zerihun-activity-graph.herokuapp.com/graph?username=zerihun-h&theme=react-dark">
+ <img src="https://zerihun-activity-graph.herokuapp.com/graph?username=zerihun-h&theme=rogue">
 </p> 
 
 
