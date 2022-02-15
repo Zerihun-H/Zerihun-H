@@ -25,8 +25,7 @@ Languages and Tools:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-
-https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=darkhub
 
 
 ![Zerihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerihun-h&show_icons=true&theme=algolia)
