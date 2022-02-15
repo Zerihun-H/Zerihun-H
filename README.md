@@ -26,9 +26,7 @@ Languages and Tools:
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zerihun-h)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zerihun-H)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Zerihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerihun-h&show_icons=true&theme=algolia)
