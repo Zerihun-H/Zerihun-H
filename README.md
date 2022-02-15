@@ -31,4 +31,4 @@ Languages and Tools:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zerihun-H)](https://github.com/anuraghazra/github-readme-stats)
 
-![Zerihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerihun-h&show_icons=true&theme=radical)
+![Zerihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerihun-h&show_icons=true&theme=algolia)
