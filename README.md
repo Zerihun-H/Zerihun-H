@@ -14,10 +14,11 @@
  <img  src="https://zerihun-readme.herokuapp.com?user=zerihun-h&theme=dark-smoky&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=00C3DA&ring=4B8DDA&sideNums=D8D8D8&dates=DDDDDD&sideLabels=DDDDDD&currStreakLabel=DDDDDD&fire=DD2727">
 </p> 
  
+<!---
 <p align = "center">
  <img src="https://zerihun-activity-graph.herokuapp.com/graph?username=zerihun-h&theme=rogue">
 </p> 
-
+-->
 
   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
 </h2>
