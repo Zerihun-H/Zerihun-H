@@ -2,12 +2,12 @@
 
 - I’m currently learning web security
 
-[![Linkedin: Zerihun](https://img.shields.io/badge/-zulbukharov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zerihun-h/)](https://www.linkedin.com/in/zerihun-h/)
+<!-- [![Linkedin: Zerihun](https://img.shields.io/badge/-zulbukharov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zerihun-h/)](https://www.linkedin.com/in/zerihun-h/)
 
 ![GitHub followers](https://img.shields.io/github/followers/Zulbukharov?label=Follow&style=social)
 [![](https://img.shields.io/badge/-badges-2D4E00?style=flat-square)](https://www.youracclaim.com/users/abylaikhan-zulbukharov/badges)
 ![](https://visitor-badge.laobi.icu/badge?page_id=Zulbukharov.Zulbukharov)
-
+ -->
 ![Zerihun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zerihun-h&count_private=true&show_icons=true&include_all_commits=true&theme=algolia)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerihun-h&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align = "center">
