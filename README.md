@@ -1,4 +1,5 @@
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
+## Fancy seeing you here! 
+<!-- <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> -->
 
 - I’m currently learning web security
 
@@ -20,7 +21,7 @@
 </p> 
 -->
 
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+<!--   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"> -->
 </h2>
 <p align="center">
   <img src="https://github.com/Zerihun-H/Zerihun-H/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
