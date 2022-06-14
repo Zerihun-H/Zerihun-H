@@ -21,12 +21,6 @@
 </p> 
 -->
 
-<!--   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"> -->
-</h2>
-<p align="center">
-  <img src="https://github.com/Zerihun-H/Zerihun-H/blob/main/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
 
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
